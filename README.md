@@ -3,6 +3,7 @@
 <img src="https://ugc.production.linktr.ee/e539cc00-71aa-4558-bb6c-b6be6e46bf8d_canva-design.png" width="120" alt="Sumaonix Logo"/>
 
 # 🚀 SuMaOnix
+*"Problem Solvers Create Possibilites and Profits."*
 
 ### *Empowering Students. Building Futures.*
 
@@ -90,7 +91,7 @@ We are a team of skilled, young, and driven professionals with expertise in:
 | 💼 LinkedIn | [SuMaOnix](https://linkedin.com/company/sumaonix) |
 | 🐦 X (Twitter) | [@SuMaOnix](https://x.com/sumaonix) |
 | 🔗 All Links | [linktr.ee/sumaonix](https://linktr.ee/sumaonix) |
-| 📧 Email | *(Add your email here)* |
+| 📧 Email | *sumaonixtech@gmail.com* |
 
 ---
 
